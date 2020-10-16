@@ -1,0 +1,115 @@
+#imagenmac{
+    background-image: url('1x/fondo.png');/* Reemplaza aca con al foto que tienes esa del mac*/
+   width: 100%;
+   margin: auto;
+   padding: 0%;
+  }
+  
+
+.jumbotron1{
+  background-color:rgb(255, 146, 250);
+}
+
+.natalia h1{
+  background-color:rgb(255, 146, 250);
+  color: salmon;
+}
+
+.perfil p{
+  color:black;
+  font-size: 40%;
+}
+
+.containerfondo{
+  background-color:salmon;
+  color:black;
+  border:5px solid black;
+}
+
+.containerfondo .text-center h2{
+  color: black;
+  padding: 45px;
+}
+
+.containerfondo2{
+  background-color:rgb(255, 146, 250);
+  color:black;
+}
+
+.containerfondo2 .text-center h2{
+  color: black;
+  padding: 45px;
+}
+
+.containerfondo3{
+  background-color:salmon;
+  border:5px solid black;
+  color:black;
+}
+
+.containerfondo3 .text-center h2{
+  color: black;
+  padding: 45px;
+}
+
+.ai1 h4{
+  color: yellow;
+}
+
+.ps2 h4{
+  color: blue;
+}
+
+.pr3 h4{
+  color: purple;
+}
+
+.ae4 h4{
+  color: violet;
+}
+
+#contenido{
+    
+  background-color:rgb(255, 146, 250);
+  }
+
+  #nosotrosTitulo{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    background-color:rgb(255, 146, 250);
+  }
+
+ #nosotrosContenido{
+    background-color: salmon;
+    padding-top: 50px;
+  }
+
+  #nosotrosContenido p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw;
+    margin: auto;
+  }
+  
+  #portafolioTitulo{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: salmon;
+  }
+
+  #contactoTitulo{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    background-color:rgb(255, 146, 250);
+  }
+
+  .item{
+    width: 80%;
+    margin: auto;
+    padding:15px;
+  }
+
+  .item img{
+    width: 80%;
+    box-shadow:rgba(0, 0, 0, 0.5) 0px 5px 10px ;
+    border-radius: 5px;
+  }
